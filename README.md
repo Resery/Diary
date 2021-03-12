@@ -17,7 +17,6 @@
 <summary>2021.03.10 : </summary>
 
 
-
 - 今天没什么进度，停下来思考了一天
 
 </details>
@@ -30,7 +29,7 @@
 - rust 5、6、7、8、9章的学习，rust的错误处理比C好用很多，C需要弄一堆分支来输出的错误信息，rust仅仅只需要一行即可完成，爱了爱了
 - rustlings 项目的if、move\_semantics、primitive\_types、structs、variables、quiz1、function小节的内容做完了
 
-<details>                                                                                                
+</details>                                                                                                
 
 
 <details>
@@ -40,4 +39,4 @@
 - unix 环境高级编程多线程部分的学习，做了几道和多线程有关的题，对于多线程初窥门径 
 - 尝试用rust出一道逆向的题 
 
-<details>
+</details>
