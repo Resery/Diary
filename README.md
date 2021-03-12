@@ -31,3 +31,13 @@
 - rustlings 项目的if、move\_semantics、primitive\_types、structs、variables、quiz1、function小节的内容做完了
 
 <details>                                                                                                
+
+
+<details>
+<summary>2021.03.12 : </summary>
+
+
+- unix 环境高级编程多线程部分的学习，做了几道和多线程有关的题，对于多线程初窥门径 
+- 尝试用rust出一道逆向的题 
+
+<details>
