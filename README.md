@@ -60,3 +60,61 @@
 - 继续使用rust出一道迷宫题，主要思路是先生成一个伪迷宫，然后通过一些变换才可以得到真正的迷宫，之后就是正常的走迷宫即可
 
 </details>
+
+<details>
+<summary>2021.03.15 : </summary>
+
+
+- java 阅读java相关的内容,head first java 看到第4章,敲了些代码
+
+</details>
+
+<details>
+<summary>2021.03.16 : </summary>
+
+
+- 继续java相关内容的学习,head first java 上面的内容比较简单,很多东西没有讲到,所以更换了另一个学习的资料,继续敲代码熟悉java
+
+</details>
+
+<details>
+<summary>2021.03.17 : </summary>
+
+
+- java的学习,主要是围绕着之前head first java上面没涉及到的东西,白天课上的效率不高
+- HTTP协议相关知识学习,主要通过阅读图解HTTP来学习,对网络相关的知识又了解了一些
+
+</details>
+
+<details>
+<summary>2021.03.18 : </summary>
+
+
+- java相关的学习,用java做了几道算法题,学习效率不高
+
+</details>
+
+<details>
+<summary>2021.03.19 : </summary>
+
+
+- 主要和另一名小伙伴进行了交流,对于之后的道路的一些想法
+
+</details>
+
+<details>
+<summary>2021.03.20 : </summary>
+
+
+- 摸了一天鱼,看了一些数据结构相关的内容
+
+</details>
+
+<details>
+<summary>2021.03.21 : </summary>
+
+
+- leetcode 刷题,补数据结构与算法的知识,读了读OI WIKI,发现OI WIKI上面涉及到的东西过多,而且有些过于深入,有些数据结构并没有很好的讲述出具体的应用场景,如果说不打OJ而对于面试来说搞明白基本的数据结构即可,算法也是学会基本算法即可,过深的算法可以以后来进行补习
+- 继续阅读图解HTTP并记录相关章节的笔记
+
+</details>
